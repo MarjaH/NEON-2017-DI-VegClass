@@ -2,6 +2,7 @@
 ## Hyperspectral classification
 
 ### Marja, Michala, Kendall, Thomas  email contact: haagsmam@oregonstate.edu
+thomasvanderweide@u.boisestate.edu
 
 Area: Ordway Swisher
 Classification:
@@ -14,4 +15,4 @@ Output: Thematic maps and statistics (confusion matrix)
 
 THis is a test
 
-test
+###test
